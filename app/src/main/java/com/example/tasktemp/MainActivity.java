@@ -96,8 +96,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    //不满三个时，判断minappid。 如果有minappid，那么不能使用这个activity。如果没有minappid，使用这个activity。
-    //当三个activity都在使用时，那么毁掉一个最早的activity。然后走上面的逻辑
 
     //不满三个时，使用闲置的activity.
     //满三个时，判断传入的minappid是否已经存在，如果存在着启动这个activity。  如果不存在，那么使用最早的actvity

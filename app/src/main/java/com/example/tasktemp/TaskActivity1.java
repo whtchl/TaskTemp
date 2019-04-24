@@ -46,7 +46,6 @@ public class TaskActivity1 extends AppCompatActivity {
         String str = intent.getStringExtra("value");
         String minappid = intent.getStringExtra(SingleInstanceActivity.minappid);
         editText.setText(str);
-
         JUtils.getSharedPreference().edit().putString(SingleInstanceActivity.a1,System.currentTimeMillis()+"").apply();
         JUtils.getSharedPreference().edit().putString(SingleInstanceActivity.a1MinappId,minappid).apply();
     }
