@@ -4,5 +4,7 @@
 
 实现原理：
 1.先在Androidmainfest 上用singleInstance 定义三个activity（就是定义三个栈）
+
 2.每次打开activity，在onResume中保存时间。 用来排序且时间和当前的activity（栈）绑定。
+
 3.每次打开acitvity，在onResume中保存minappid。用来将minappid和当前的activity（栈）绑定。  就是个是那个按钮来打开这个activity（栈）
