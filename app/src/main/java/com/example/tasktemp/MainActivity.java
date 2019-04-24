@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
     Button btnTaskActivity1,btnTaskActivity2,btnTaskActivity3,btnTaskActivity4,btnGetStackInfo,btnTaskActivity5,btnTaskActivity6;
     Map<String,String> mMap = new HashMap<String,String>();
     Map<String, String> resultMap= new HashMap<String,String>();
+
+    Map<String,String> mMapInfo = new HashMap<String,String>();
+    Map<String, String> resultMapInfo= new HashMap<String,String>();
     PackageManager packageManager;
 
     @Override
@@ -216,92 +219,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //根据minappid，得到对应的activity
 
-    private void startTaskActivity(String intentStr){
-        getStackInfo();
-
-        //size == 3 的话，复用最长时间没有使用的activity
-        if(resultMap != null && resultMap.size()==3){
-            //resultMap.get(resultMap.size()-1);
-            //Map<String, String> tempMap;
-            String className = "";
-
-            for (Map.Entry<String, String> entry : resultMap.entrySet()) {
-                Log.i("tchl","size =3  "+entry.getKey() + " " + entry.getValue());
-                className = entry.getValue();
-                break;
-            }
-
-            Intent intent= new Intent();//packageManager.getLaunchIntentForPackage(className);
-            intent.setClassName(getApplicationContext(),className);
-            intent.putExtra("value","size=3"+ " 使用的activity；"+ className+"  Btn:"+intentStr);
-            startActivity(intent);
-        }else if(resultMap != null && resultMap.size()==2){
-            List<String> listActivity = new ArrayList<String>();
-            listActivity.add(SingleInstanceActivity.a1);
-            listActivity.add(SingleInstanceActivity.a2);
-            listActivity.add(SingleInstanceActivity.a3);
-
-            //当有两个activity在使用时，将这两个activity对应的list内容情况。
-            for (Map.Entry<String, String> entry : resultMap.entrySet()) {
-                Log.i("tchl","size =2 "+entry.getKey() + " " + entry.getValue());
-                for(int i=0;i<listActivity.size();i++){
-                    if(entry.getValue().equals(listActivity.get(i))){
-                        listActivity.set(i,"");
-                    }
-                }
-            }
-            String  className = "";
-            //将list中不是""的class取出。也就是说这个activity还没有被使用。
-            for(int i=0;i<listActivity.size();i++){
-                if(!listActivity.get(i).equals("")){
-                    className = listActivity.get(i);
-                    break;
-                }
-            }
-            Intent intent= new Intent();//packageManager.getLaunchIntentForPackage(className);
-            intent.setClassName(getApplicationContext(),className);
-            intent.putExtra("value","size =2"+ " 使用的activity；"+ className+"  Btn:"+intentStr);
-            startActivity(intent);
-
-        }else if(resultMap != null && resultMap.size()==1){
-
-            List<String> listActivity = new ArrayList<String>();
-            listActivity.add(SingleInstanceActivity.a1);
-            listActivity.add(SingleInstanceActivity.a2);
-            listActivity.add(SingleInstanceActivity.a3);
-
-
-            for (Map.Entry<String, String> entry : resultMap.entrySet()) {
-                Log.i("tchl","size =1  "+entry.getKey() + " " + entry.getValue());
-                for(int i=0;i<listActivity.size();i++){
-                    if(entry.getValue().equals(listActivity.get(i))){
-                        listActivity.set(i,"");
-                    }
-                }
-            }
-
-            String  className = "";
-            //将list中不是""的第一个class取出。也就是说这个activity还没有被使用。
-            for(int i=0;i<listActivity.size();i++){
-                if(!listActivity.get(i).equals("")){
-                    className = listActivity.get(i);
-                    break;
-                }
-            }
-
-            Intent intent= new Intent();//packageManager.getLaunchIntentForPackage(className);
-            intent.setClassName(getApplicationContext(),className);
-            intent.putExtra("value"," size=1"+ " 使用的activity；"+ className+"  Btn:"+intentStr);
-            startActivity(intent);
-
-        }else{
-            Intent intent = new Intent(getApplicationContext(),TaskActivity1.class);
-            intent.putExtra("value"," size=0" + "使用的activity；taskActivity.class"+"  Btn:"+intentStr);
-            startActivity(intent);
-        }
-    }
 
 
     //获取栈信息，根据栈打开的实际进行升序排序
@@ -374,11 +292,11 @@ public class MainActivity extends AppCompatActivity {
         ActivityManager manager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
         int maxNum = 10;
         List<ActivityManager.RunningTaskInfo> runningTaskInfos = manager.getRunningTasks(maxNum);
-        if(mMap!=null){
-            mMap.clear();
+        if(mMapInfo!=null){
+            mMapInfo.clear();
         }
-        if(resultMap != null){
-            resultMap.clear();
+        if(resultMapInfo != null){
+            resultMapInfo.clear();
         }
 
         if (runningTaskInfos != null) {
@@ -386,7 +304,7 @@ public class MainActivity extends AppCompatActivity {
             for(int i=0; i<runningTaskInfos.size();i++){
                 ComponentName cn = runningTaskInfos.get(i).topActivity;
                 if(cn.getClassName().equals(SingleInstanceActivity.a1)){
-                    mMap.put( runningTaskInfos.get(i).id+"",cn.getClassName());
+                    mMapInfo.put( runningTaskInfos.get(i).id+"",cn.getClassName());
 
                    /* mMap.put( System.currentTimeMillis()+param+"",cn.getClassName());
                     Log.i("tchl","getStackInfo: time="+(System.currentTimeMillis()+param)+" className:"+cn.getClassName());
@@ -396,7 +314,7 @@ public class MainActivity extends AppCompatActivity {
                    Log.i("tchl","getStackInfo: time="+JUtils.getSharedPreference().getString(SingleInstanceActivity.a1,"") +" className:"+cn.getClassName());*/
                 }
                 if(cn.getClassName().equals(SingleInstanceActivity.a2)){
-                    mMap.put( runningTaskInfos.get(i).id+"",cn.getClassName());
+                    mMapInfo.put( runningTaskInfos.get(i).id+"",cn.getClassName());
                     /*mMap.put( System.currentTimeMillis()+param+"",cn.getClassName());
                     Log.i("tchl","getStackInfo: time="+(System.currentTimeMillis()+param)+" className:"+cn.getClassName());
                     param++;*/
@@ -406,7 +324,7 @@ public class MainActivity extends AppCompatActivity {
 */
                 }
                 if(cn.getClassName().equals(SingleInstanceActivity.a3)){
-                    mMap.put( runningTaskInfos.get(i).id+"",cn.getClassName());
+                    mMapInfo.put( runningTaskInfos.get(i).id+"",cn.getClassName());
                     /*mMap.put( System.currentTimeMillis()+param+"",cn.getClassName());
                     Log.i("tchl","getStackInfo: time="+(System.currentTimeMillis()+param)+" className:"+cn.getClassName());
                     param++;*/
@@ -418,10 +336,10 @@ public class MainActivity extends AppCompatActivity {
 
             }
 
-           resultMap = sortMapByKey(mMap);    //按Key进行排序
+           resultMapInfo = sortMapByKey(mMapInfo);    //按Key进行排序
 
-            if(resultMap != null){
-                for (Map.Entry<String, String> entry : resultMap.entrySet()) {
+            if(resultMapInfo != null){
+                for (Map.Entry<String, String> entry : resultMapInfo.entrySet()) {
                     Log.i("tchl","getStackInfo:"+entry.getKey() + " " + entry.getValue());
                 }
             }
