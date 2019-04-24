@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/btn_taskactivity1"
+            android:text="taskactivity1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"/>
+
+
+        <Button
+            android:id="@+id/btn_taskactivity2"
+            android:text="taskactivity2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/btn_taskactivity3"
+            android:text="taskactivity3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:id="@+id/btn_taskactivity4"
+            android:text="栈中只有3个，启动第4个时复用最长时间不用的那个activity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/btn_taskactivity5"
+            android:text="栈中只有3个，启动第5个时复用最长时间不用的那个activity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/btn_taskactivity6"
+            android:text="栈中只有3个，启动第6个时复用最长时间不用的那个activity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/btn_getStackInfo"
+            android:text="获得栈信息"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+
+</ScrollView>

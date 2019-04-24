@@ -1,0 +1,1320 @@
+ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * PendingIntentRecord{22f3e83 com.vivo.globalsearch broadcastIntent}
+  * PendingIntentRecord{3c42ca3 android broadcastIntent}
+  * PendingIntentRecord{f7bb800 com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{66dabb com.android.bbkmusic broadcastIntent}
+  * PendingIntentRecord{7527359 android broadcastIntent}
+  * PendingIntentRecord{d166b1e com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{e62efff com.vivo.hiboard startActivity}
+  * PendingIntentRecord{37a11cc com.vivo.pem broadcastIntent}
+  * PendingIntentRecord{c54656e com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{c2dec15 com.bbk.iqoo.logsystem startService}
+  * PendingIntentRecord{2008d1b com.vivo.pushservice broadcastIntent}
+  * PendingIntentRecord{5ad2216 com.bbk.appstore broadcastIntent}
+  * PendingIntentRecord{c0e3491 android broadcastIntent}
+  * PendingIntentRecord{f36bff6 com.iqoo.secure broadcastIntent}
+  * PendingIntentRecord{710dff7 android startActivity}
+  * PendingIntentRecord{676ce64 android broadcastIntent}
+  * PendingIntentRecord{8d088cd android broadcastIntent}
+  * PendingIntentRecord{606e582 android broadcastIntent}
+  * PendingIntentRecord{9bd8839 com.vivo.globalsearch broadcastIntent}
+  * PendingIntentRecord{3046cd0 com.bbk.theme startActivity}
+  * PendingIntentRecord{ae9e4c9 com.vivo.daemonService startService}
+  * PendingIntentRecord{5c1d7ce com.vivo.pem broadcastIntent}
+  * PendingIntentRecord{a9dd6ef com.android.systemui startService}
+  * PendingIntentRecord{a4a8e7e com.vivo.globalsearch broadcastIntent}
+  * PendingIntentRecord{e1e6797 com.vivo.devicereg broadcastIntent}
+  * PendingIntentRecord{527a2da android startActivity}
+  * PendingIntentRecord{41af30b com.iqoo.secure startService}
+  * PendingIntentRecord{b0905e8 android broadcastIntent}
+  * PendingIntentRecord{c146401 com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{4ed12a6 android broadcastIntent}
+  * PendingIntentRecord{703b4e7 com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{433696d com.vivo.daemonService broadcastIntent}
+  * PendingIntentRecord{a47b332 com.vivo.pem broadcastIntent}
+  * PendingIntentRecord{3ccb883 android broadcastIntent}
+  * PendingIntentRecord{b5149a2 com.bbk.theme broadcastIntent}
+  * PendingIntentRecord{b57e633 com.vivo.daemonService broadcastIntent}
+  * PendingIntentRecord{639d07e android broadcastIntent}
+  * PendingIntentRecord{39859df com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{c9d3fdf com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{4ba662c android broadcastIntent}
+  * PendingIntentRecord{8718f5 android broadcastIntent}
+  * PendingIntentRecord{552b4fb com.iqoo.secure broadcastIntent}
+  * PendingIntentRecord{319dc9c com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{de4542c com.vivo.hybrid broadcastIntent}
+  * PendingIntentRecord{5f57156 android broadcastIntent}
+  * PendingIntentRecord{8da5d7 android broadcastIntent}
+  * PendingIntentRecord{1e56ef5 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{1a0b28f com.bbk.appstore broadcastIntent}
+  * PendingIntentRecord{3c671ad android broadcastIntent}
+  * PendingIntentRecord{aef4ce2 android startActivity}
+  * PendingIntentRecord{8994559 com.vivo.globalsearch broadcastIntent}
+  * PendingIntentRecord{a1cc873 android broadcastIntent}
+  * PendingIntentRecord{f469330 com.tencent.mobileqq broadcastIntent}
+  * PendingIntentRecord{b9552e android startActivity}
+  * PendingIntentRecord{67178cf android broadcastIntent}
+  * PendingIntentRecord{39b25c android broadcastIntent}
+  * PendingIntentRecord{c112965 android broadcastIntent}
+  * PendingIntentRecord{ae56a7a com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{709963a com.vivo.pem broadcastIntent}
+  * PendingIntentRecord{5b6d2eb com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{fdd9848 android broadcastIntent}
+  * PendingIntentRecord{56ff6e1 android broadcastIntent}
+  * PendingIntentRecord{5adb2c7 android broadcastIntent}
+  * PendingIntentRecord{cfd148a com.vivo.globalsearch broadcastIntent}
+  * PendingIntentRecord{966afa com.vivo.devicereg broadcastIntent}
+  * PendingIntentRecord{548b292 android broadcastIntent}
+  * PendingIntentRecord{548b463 android broadcastIntent}
+  * PendingIntentRecord{e7d2860 com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{bffe8ab com.vivo.devicereg broadcastIntent}
+  * PendingIntentRecord{41c5b08 com.baidu.input_bbk.service broadcastIntent}
+  * PendingIntentRecord{e7bb22b com.vivo.daemonService broadcastIntent}
+  * PendingIntentRecord{5fc6a8c com.iqoo.secure broadcastIntent}
+  * PendingIntentRecord{93835d5 com.android.phone broadcastIntent}
+  * PendingIntentRecord{51401ea com.vivo.daemonService broadcastIntent}
+  * PendingIntentRecord{7164cdb com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{c4ba378 android broadcastIntent}
+  * PendingIntentRecord{ed35a51 android broadcastIntent}
+  * PendingIntentRecord{bffafb com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{9588718 com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{622dbb7 android broadcastIntent}
+  * PendingIntentRecord{2537f24 android broadcastIntent}
+  * PendingIntentRecord{8224a8d android broadcastIntent}
+  * PendingIntentRecord{86b0571 com.bbk.appstore startService}
+  * PendingIntentRecord{1ff7c53 com.vivo.pushservice broadcastIntent}
+  * PendingIntentRecord{cdb6990 com.vivo.magazine startActivity}
+  * PendingIntentRecord{3ff62a1 com.android.phone broadcastIntent}
+  * PendingIntentRecord{47b028e android broadcastIntent}
+  * PendingIntentRecord{d503cc6 com.vivo.daemonService startService}
+  * PendingIntentRecord{79fef56 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{7333e45 com.vivo.daemonService broadcastIntent}
+  * PendingIntentRecord{c28b99a com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{fa01fb4 com.vivo.daemonService broadcastIntent}
+  * PendingIntentRecord{7aadaa8 android startActivity}
+  * PendingIntentRecord{84e79c1 android broadcastIntent}
+  * PendingIntentRecord{a0e87dd com.bbk.appstore startActivity}
+  * PendingIntentRecord{ec8d566 android broadcastIntent}
+  * PendingIntentRecord{f6c20a7 com.vivo.game broadcastIntent}
+  * PendingIntentRecord{b26f954 com.bbk.launcher2 broadcastIntent}
+  * PendingIntentRecord{a87f0fd com.vivo.daemonService broadcastIntent}
+  * PendingIntentRecord{7835f52 com.baidu.input_bbk.service broadcastIntent}
+  * PendingIntentRecord{6b02043 android broadcastIntent}
+  * PendingIntentRecord{9a456c0 android broadcastIntent}
+  * PendingIntentRecord{5e79ff9 android broadcastIntent}
+  * PendingIntentRecord{c894bd7 com.android.providers.calendar broadcastIntent}
+  * PendingIntentRecord{5f98320 com.vivo.abe broadcastIntent}
+  * PendingIntentRecord{9d81eec android broadcastIntent}
+  * PendingIntentRecord{f942b5 com.vivo.magazine broadcastIntent}
+
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+  Historical broadcasts [foreground]:
+  #0: BroadcastRecord{839d51e u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #1: BroadcastRecord{2c311ff u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #2: BroadcastRecord{6c48bcc u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #3: BroadcastRecord{fde15 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #4: BroadcastRecord{5aa252a u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #5: BroadcastRecord{940cf1b u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #6: BroadcastRecord{99498b8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #7: BroadcastRecord{11d4691 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #8: BroadcastRecord{a1d69f6 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #9: BroadcastRecord{f1341f7 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #10: BroadcastRecord{5568864 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #11: BroadcastRecord{4bebacd u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #12: BroadcastRecord{9ae2f82 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=recentapps}]
+  #13: BroadcastRecord{2300693 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #14: BroadcastRecord{925c6d0 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=recentapps}]
+  #15: BroadcastRecord{c8936c9 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #16: BroadcastRecord{d93c1ce u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #17: BroadcastRecord{4a78ef u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #18: BroadcastRecord{8687ffc u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #19: BroadcastRecord{4657685 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #20: BroadcastRecord{92e2cda u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #21: BroadcastRecord{4efb50b u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #22: BroadcastRecord{4bb9fe8 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #23: BroadcastRecord{40bf601 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #24: BroadcastRecord{3d23ca6 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #25: BroadcastRecord{d6296e7 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #26: BroadcastRecord{a9ed294 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #27: BroadcastRecord{c40f13d u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #28: BroadcastRecord{3557d32 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #29: BroadcastRecord{e37ba83 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #30: BroadcastRecord{adafcc4 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #31: BroadcastRecord{bd987ad u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=recentapps}]
+  #32: BroadcastRecord{fc3aae2 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #33: BroadcastRecord{12cce73 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=recentapps}]
+  #34: BroadcastRecord{6ed2130 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #35: BroadcastRecord{e33f1a9 u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=recentapps}]
+  #36: BroadcastRecord{175932e u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #37: BroadcastRecord{57bdecf u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #38: BroadcastRecord{6bb205c u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #39: BroadcastRecord{4b0ff65 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #40: BroadcastRecord{a4bb43a u-1 android.intent.action.CLOSE_SYSTEM_DIALOGS}
+    act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras)
+    extras: Bundle[{reason=recentapps}]
+  #41: BroadcastRecord{20198eb u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #42: BroadcastRecord{807e648 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #43: BroadcastRecord{7372ce1 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #44: BroadcastRecord{930da06 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #45: BroadcastRecord{2ded8c7 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #46: BroadcastRecord{fd91ef4 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #47: BroadcastRecord{b98b61d u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #48: BroadcastRecord{ef09092 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #49: BroadcastRecord{b663a63 u-1 android.intent.action.TIME_TICK}
+    act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  #50: act=android.intent.action.TIME_TICK flg=0x50000114 (has extras)
+    enq=2019-04-24 14:29:00 disp=2019-04-24 14:29:00 fin=2019-04-24 14:29:00
+    extras: Bundle[{android.intent.extra.ALARM_COUNT=1}]
+  ...
+
+  Historical broadcasts [background]:
+  #0: BroadcastRecord{39b49f0 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-50}]
+  #1: BroadcastRecord{945cb69 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-48}]
+  #2: BroadcastRecord{2e7c9ee u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-52}]
+  #3: BroadcastRecord{84bae8f u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-48}]
+  #4: BroadcastRecord{903151c u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, level_2nd=50, icon-small=17303119, present_2nd=false, health=2, status=5, plugged=2, present=true, level=100, scale=100, status_2nd=4, temperature=330, voltage=4374, invalid_charger=0}]
+  #5: BroadcastRecord{666b525 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-49}]
+  #6: BroadcastRecord{48a96fa u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-57}]
+  #7: BroadcastRecord{ce08400 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-59}]
+  #8: BroadcastRecord{bd06439 u0 com.iqoo.secure.action.PHONESCAN_COMPLETED}
+    act=com.iqoo.secure.action.PHONESCAN_COMPLETED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=112]
+  #9: BroadcastRecord{35a3a7e u0 com.iqoo.secure.action.PHONESCAN_START}
+    act=com.iqoo.secure.action.PHONESCAN_START flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #10: BroadcastRecord{6b17bdf u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, level_2nd=50, icon-small=17303119, present_2nd=false, health=2, status=5, plugged=2, present=true, level=100, scale=100, status_2nd=4, temperature=330, voltage=4362, invalid_charger=0}]
+  #11: BroadcastRecord{ac9e02c u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-55}]
+  #12: BroadcastRecord{84a0af5 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-59}]
+  #13: BroadcastRecord{55b808a u0 com.bbk.cloud.DATA_CHANGE}
+    act=com.bbk.cloud.DATA_CHANGE flg=0x10 pkg=com.bbk.cloud (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #14: BroadcastRecord{ddbf6fb u0 com.vivo.abe.third.lifecontrol}
+    act=com.vivo.abe.third.lifecontrol flg=0x10 (has extras)
+    extras: Bundle[{CALLER_UID=2000, CALLER_PACKAGE_NAME=null, CALLING_CLASS_NAME=com.example.tasktemp.MainActivity, CALLING_PACKAGE_NAME=com.example.tasktemp}]
+  #15: BroadcastRecord{d0ad318 u0 com.vivo.services.security.client.PACKAGE_PERMISSION_REPLACED}
+    act=com.vivo.services.security.client.PACKAGE_PERMISSION_REPLACED flg=0x10 (has extras)
+    extras: Bundle[{package=com.example.tasktemp}]
+  #16: BroadcastRecord{67d6171 u0 com.vivo.services.security.client.PACKAGE_PERMISSION_ADDED}
+    act=com.vivo.services.security.client.PACKAGE_PERMISSION_ADDED flg=0x10 (has extras)
+    extras: Bundle[{package=com.example.tasktemp}]
+  #17: BroadcastRecord{e9d66e3 u0 android.intent.action.PACKAGE_REPLACED}
+    act=android.intent.action.PACKAGE_REPLACED dat=package:com.example.tasktemp flg=0x4000010 (has extras)
+    extras: Bundle[{installResourceVersion=null, android.intent.extra.UID=10313, android.intent.extra.REPLACING=true, IsInstallSilence=false, android.intent.extra.user_handle=0, install_resource=shell}]
+  #18: BroadcastRecord{5791b56 u0 com.vivo.services.security.client.PACKAGE_PERMISSION_REMOVED}
+    act=com.vivo.services.security.client.PACKAGE_PERMISSION_REMOVED flg=0x10 (has extras)
+    extras: Bundle[{package=com.example.tasktemp}]
+  #19: BroadcastRecord{747daf3 u0 android.intent.action.PACKAGE_ADDED}
+    act=android.intent.action.PACKAGE_ADDED dat=package:com.example.tasktemp flg=0x4000010 (has extras)
+    extras: Bundle[{installResourceVersion=null, android.intent.extra.UID=10313, android.intent.extra.REPLACING=true, IsInstallSilence=false, android.intent.extra.user_handle=0, install_resource=shell}]
+  #20: BroadcastRecord{cf15c20 u0 android.intent.action.PACKAGE_REMOVED}
+    act=android.intent.action.PACKAGE_REMOVED dat=package:com.example.tasktemp flg=0x4000010 (has extras)
+    extras: Bundle[{android.intent.extra.REMOVED_FOR_ALL_USERS=false, android.intent.extra.UID=10313, android.intent.extra.DATA_REMOVED=false, android.intent.extra.REPLACING=true, android.intent.extra.user_handle=0}]
+  #21: BroadcastRecord{56907d7 u0 com.vivo.abe.third.lifecontrol}
+    act=com.vivo.abe.third.lifecontrol flg=0x10 (has extras)
+    extras: Bundle[{CALLER_UID=1000, CALLER_PACKAGE_NAME=null, CALLING_CLASS_NAME=com.vivo.vivokaraoke.floatview.KaraokeBroadcastReceiver, CALLING_PACKAGE_NAME=com.vivo.vivokaraoke}]
+  #22: BroadcastRecord{56608c4 u0 android.intent.action.PACKAGE_REPLACED}
+    act=android.intent.action.PACKAGE_REPLACED dat=package:com.example.tasktemp flg=0x4000010 (has extras)
+    extras: Bundle[{installResourceVersion=null, android.intent.extra.UID=10313, android.intent.extra.REPLACING=true, IsInstallSilence=false, android.intent.extra.user_handle=0, install_resource=shell}]
+  #23: BroadcastRecord{eb5a3ad u0 android.intent.action.PACKAGE_ADDED}
+    act=android.intent.action.PACKAGE_ADDED dat=package:com.example.tasktemp flg=0x4000010 (has extras)
+    extras: Bundle[{installResourceVersion=null, android.intent.extra.UID=10313, android.intent.extra.REPLACING=true, IsInstallSilence=false, android.intent.extra.user_handle=0, install_resource=shell}]
+  #24: BroadcastRecord{396e2 u0 android.intent.action.PACKAGE_REMOVED}
+    act=android.intent.action.PACKAGE_REMOVED dat=package:com.example.tasktemp flg=0x4000010 (has extras)
+    extras: Bundle[{android.intent.extra.REMOVED_FOR_ALL_USERS=false, android.intent.extra.UID=10313, android.intent.extra.DATA_REMOVED=false, android.intent.extra.REPLACING=true, android.intent.extra.user_handle=0}]
+  #25: BroadcastRecord{e4c4a73 u0 com.iqoo.secure.action.PHONESCAN_COMPLETED}
+    act=com.iqoo.secure.action.PHONESCAN_COMPLETED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=112]
+  #26: BroadcastRecord{d1ced30 u0 com.iqoo.secure.action.PHONESCAN_START}
+    act=com.iqoo.secure.action.PHONESCAN_START flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #27: BroadcastRecord{8b5cda9 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-50}]
+  #28: BroadcastRecord{3c83f2e u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-47}]
+  #29: BroadcastRecord{b171acf u-1 android.intent.action.BATTERY_CHANGED}
+    act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras)
+    extras: Bundle[{technology=Li-ion, level_2nd=50, icon-small=17303119, present_2nd=false, health=2, status=5, plugged=2, present=true, level=100, scale=100, status_2nd=4, temperature=330, voltage=4355, invalid_charger=0}]
+  #30: BroadcastRecord{e1bac5c u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-49}]
+  #31: BroadcastRecord{b749b65 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-51}]
+  #32: BroadcastRecord{d1d203a u0 com.iqoo.secure.action.PHONESCAN_COMPLETED}
+    act=com.iqoo.secure.action.PHONESCAN_COMPLETED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=112]
+  #33: BroadcastRecord{c1494eb u0 com.iqoo.secure.action.PHONESCAN_START}
+    act=com.iqoo.secure.action.PHONESCAN_START flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #34: BroadcastRecord{2e53248 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-57}]
+  #35: BroadcastRecord{c9888e1 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-55}]
+  #36: BroadcastRecord{5ad0606 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-50}]
+  #37: BroadcastRecord{12594c7 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-47}]
+  #38: BroadcastRecord{93f2af4 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-49}]
+  #39: BroadcastRecord{bb3d21d u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-50}]
+  #40: BroadcastRecord{5037c92 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-49}]
+  #41: BroadcastRecord{d5cb663 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-44}]
+  #42: BroadcastRecord{39e0260 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-45}]
+  #43: BroadcastRecord{5407319 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-45}]
+  #44: BroadcastRecord{dd8cfde u0 com.iqoo.secure.action.PHONESCAN_COMPLETED}
+    act=com.iqoo.secure.action.PHONESCAN_COMPLETED flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=112]
+  #45: BroadcastRecord{85a55bf u0 com.iqoo.secure.action.PHONESCAN_START}
+    act=com.iqoo.secure.action.PHONESCAN_START flg=0x10 (has extras)
+    extras: Bundle[mParcelledData.dataSize=36]
+  #46: BroadcastRecord{550e48c u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-45}]
+  #47: BroadcastRecord{95c27d5 u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-44}]
+  #48: BroadcastRecord{41e0bea u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-45}]
+  #49: BroadcastRecord{9688edb u-1 android.net.wifi.RSSI_CHANGED}
+    act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    extras: Bundle[{newRssi=-45}]
+  #50: act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+    enq=2019-04-24 14:29:32 disp=2019-04-24 14:29:32 fin=2019-04-24 14:29:32
+    extras: Bundle[{newRssi=-50}]
+  ...
+
+  Sticky broadcasts for user -1:
+  * Sticky action android.intent.action.SERVICE_STATE
+  * Sticky action android.net.wifi.WIFI_STATE_CHANGED
+  * Sticky action android.net.wifi.p2p.CONNECTION_STATE_CHANGE
+  * Sticky action android.media.ACTION_SCO_AUDIO_STATE_UPDATED
+  * Sticky action android.net.wifi.p2p.THIS_DEVICE_CHANGED
+  * Sticky action android.intent.action.BATTERY_CHANGED
+  * Sticky action intent_action_imei_meid
+  * Sticky action android.net.conn.CONNECTIVITY_CHANGE
+  * Sticky action android.intent.action.RADIO_TECHNOLOGY
+  * Sticky action android.intent.action.ANY_DATA_STATE
+  * Sticky action android.provider.Telephony.SPN_STRINGS_UPDATED
+  * Sticky action android.net.nsd.STATE_CHANGED
+  * Sticky action android.hardware.usb.action.USB_STATE
+  * Sticky action android.net.wifi.RSSI_CHANGED
+  * Sticky action android.net.wifi.STATE_CHANGE
+  * Sticky action android.intent.action.SIM_STATE_CHANGED
+  * Sticky action com.mediatek.wfd.connection
+  * Sticky action android.media.INTERNAL_RINGER_MODE_CHANGED_ACTION
+  * Sticky action android.intent.action.PROXY_CHANGE
+  * Sticky action android.net.wifi.supplicant.STATE_CHANGE
+  * Sticky action android.net.conn.VIVO_SMART_WIFI_VALID
+  * Sticky action android.net.wifi.p2p.PERSISTENT_GROUPS_CHANGED
+  * Sticky action android.net.conn.INET_CONDITION_ACTION
+  * Sticky action android.media.SCO_AUDIO_STATE_CHANGED
+  * Sticky action android.os.UpdateLock.UPDATE_LOCK_CHANGED
+  * Sticky action android.net.conn.DATA_ACTIVITY_CHANGE_CT
+  * Sticky action android.media.MASTER_MUTE_CHANGED_ACTION
+  * Sticky action wifi_scan_available
+  * Sticky action android.net.wifi.p2p.STATE_CHANGED
+  * Sticky action android.intent.action.HDMI_PLUGGED
+  * Sticky action android.media.RINGER_MODE_CHANGED
+
+  Sticky broadcasts for user 0:
+  * Sticky action com.android.ims.IMS_STATE_CHANGED
+  * Sticky action android.intent.action.ACTION_SUBINFO_RECORD_UPDATED
+  * Sticky action SPEED_SHOW_FROM_SERVICE
+
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  Published single-user content providers (by class):
+  * ContentProviderRecord{35db836 u0 com.android.providers.telephony/.TelephonyProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    singleton=true
+    authority=telephony
+  * ContentProviderRecord{ccc1337 u0 com.android.providers.telephony/.HbpcdLookupProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    singleton=true
+    authority=hbpcd_lookup
+  * ContentProviderRecord{345957f u0 com.android.providers.settings/.SettingsProvider}
+    proc=ProcessRecord{d4943c7 965:system/1000}
+    singleton=true
+    authority=settings
+    33 connections, 0 external handles
+      -> 1388:com.android.systemui/u0a17 s1/1 u0/0 +9d3h57m29s49ms
+      -> 1541:com.vivo.daemonService/1000 s1/1 u0/0 +9d3h57m28s502ms
+      -> 1575:com.android.phone/1001 s1/1 u0/0 +9d3h57m28s333ms
+      -> 1521:com.iqoo.secure:remote/u0a61 s1/1 u0/0 +9d3h57m27s743ms
+      -> 2002:com.mediatek.wfo.impl/1001 s1/1 u0/0 +9d3h57m26s727ms
+      -> 1906:com.baidu.input_bbk.service/u0a59 s1/1 u0/0 +9d3h57m26s725ms
+      -> 1929:com.amap.android.location/u0a71 s1/1 u0/0 +9d3h57m26s717ms
+      -> 2105:com.vivo.smartmultiwindow/1000 s1/1 u0/0 +9d3h57m26s550ms
+      -> 1971:com.mediatek.ims/1001 s1/1 u0/0 +9d3h57m26s494ms
+      -> 2019:com.bbk.iqoo.logsystem/u0a64 s1/1 u0/0 +9d3h57m26s267ms
+      -> 2207:com.vivo.securedaemonservice/1000 s1/1 u0/0 +9d3h57m25s944ms
+      -> 2039:com.android.server.telecom/1000 s1/1 u0/0 +9d3h57m25s338ms
+      -> 2052:com.vivo.upslide/1000 s1/1 u0/0 +9d3h57m24s860ms
+      -> 2066:com.vivo.assistant/1000 s1/1 u0/0 +9d3h57m23s370ms
+      -> 3225:com.vivo.devicereg/u0a50 s1/1 u0/0 +9d3h57m18s306ms
+      -> 1424:com.vivo.abe/1000 s1/1 u0/0 +9d3h57m4s300ms
+      -> 3869:com.vivo.abe:bin/1000 s1/1 u0/0 +9d3h57m2s995ms
+      -> 4075:android.process.acore/u0a4 s1/1 u0/0 +9d3h57m1s432ms
+      -> 2754:android.process.media/u0a7 s1/1 u0/0 +9d3h57m0s470ms
+      -> 4599:com.iqoo.secure/u0a61 s1/1 u0/0 +9d3h56m55s133ms
+      -> 17457:com.bbk.updater/u0a92 s1/1 u0/0 +9d1h2m26s800ms
+      -> 9795:com.bbk.launcher2/u0a29 s1/1 u0/0 +7d0h39m18s160ms
+      -> 14203:com.vivo.magazine/u0a68 s1/1 u0/0 +5d11h29m30s964ms
+      -> 27251:com.vivo.pushservice/u0a104 s1/1 u0/0 +1d23h27m1s439ms
+      -> 21391:com.vivo.hybrid/u0a57 s1/1 u0/0 +59m50s182ms
+      -> 21419:com.tencent.mobileqq:MSF/u0a134 s1/1 u0/0 +59m49s753ms
+      -> 21462:com.vivo.globalsearch/u0a120 s1/1 u0/0 +59m49s604ms
+      -> 21435:com.tencent.mobileqq/u0a134 s1/1 u0/0 +59m47s463ms
+      -> 22283:com.android.mms/u0a11 s1/1 u0/0 +46m21s227ms
+      -> 22377:com.bbk.appstore/u0a25 s1/1 u0/0 +46m20s561ms
+      -> 22454:com.vivo.game/u0a115 s1/1 u0/0 +46m19s841ms
+      -> 22586:com.bbk.cloud/u0a27 s1/1 u0/0 +46m18s512ms
+      -> 24344:com.example.tasktemp/u0a313 s1/1 u0/0 +21s280ms
+  * ContentProviderRecord{44920a4 u0 android/com.android.server.am.DumpHeapProvider}
+    proc=ProcessRecord{d4943c7 965:system/1000}
+    singleton=true
+    authority=com.android.server.heapdump
+
+  Published user 0 content providers (by class):
+  * ContentProviderRecord{343a13 u0 com.bbk.cloud/.providers.NotesCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.notes
+  * ContentProviderRecord{2c4abd3 u0 com.iqoo.secure/com.vivo.daemonService.YYBInterception.YYBInterceptionContentProvider}
+    proc=ProcessRecord{57fef5a 4599:com.iqoo.secure/u0a61}
+    authority=com.vivo.daemonService.yybinterception.yybinterceptionprovider1
+  * ContentProviderRecord{a3d5649 u0 com.android.mms/.provider.ConfigProvider}
+    proc=ProcessRecord{e0e0491 22283:com.android.mms/u0a11}
+    authority=MmsConfig
+  * ContentProviderRecord{1de2b4e u0 com.bbk.appstore/.provider.SystemWlanProvider}
+    proc=ProcessRecord{51b199c 22377:com.bbk.appstore/u0a25}
+    authority=com.bbk.appstore.systemwlan
+  * ContentProviderRecord{91e646f u0 com.vivo.globalsearch/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{4ce999e 21462:com.vivo.globalsearch/u0a120}
+    authority=com.vivo.globalsearch.upgrade
+  * ContentProviderRecord{164c57c u0 com.bbk.cloud/.providers.SmsCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.sms
+  * ContentProviderRecord{c22f1c5 u0 com.android.server.telecom/.DialChoiceProvider}
+    proc=ProcessRecord{cf6cb37 2039:com.android.server.telecom/1000}
+    authority=choice
+  * ContentProviderRecord{5fc0e05 u0 com.bbk.cloud/com.vivo.ic.dm.DownloadProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.ICDM
+  * ContentProviderRecord{ceb73f7 u0 com.vivo.hybrid/.datashare.DataShareProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid.hybridData
+  * ContentProviderRecord{ece7287 u0 com.android.providers.telephony/.MmsProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=mms
+  * ContentProviderRecord{f94e27 u0 com.android.providers.downloads/.DownloadProvider}
+    proc=ProcessRecord{bc780fc 2754:android.process.media/u0a7}
+    authority=downloads
+    1 connections, 0 external handles
+      -> 17457:com.bbk.updater/u0a92 s1/1 u0/143 +9d2h42m2s108ms
+  * ContentProviderRecord{575ae5a u0 com.tencent.mobileqq/cooperation.readinjoy.content.ReadInJoyDataProvider}
+    proc=ProcessRecord{1d6d88b 21435:com.tencent.mobileqq/u0a134}
+    authority=qq.readinjoy
+  * ContentProviderRecord{79b60ed u0 com.android.providers.contacts/.CallLogProvider}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=call_log
+  * ContentProviderRecord{4f6bd68 u0 com.bbk.cloud/.providers.CallCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.call.cache
+  * ContentProviderRecord{30a45e0 u0 com.tencent.mobileqq/com.tencent.common.config.provider.QZoneConfigProvider}
+    proc=ProcessRecord{1d6d88b 21435:com.tencent.mobileqq/u0a134}
+    authority=com.tencent.common.config.provider.QZoneConfigProvider
+  * ContentProviderRecord{9e29ae6 u0 com.baidu.input_bbk.service/com.iflytek.business.speech.SharedProvider}
+    proc=ProcessRecord{8c1ab79 1906:com.baidu.input_bbk.service/u0a59}
+    authority=com.baidu.input_bbk.service.provider
+  * ContentProviderRecord{1348581 u0 com.vivo.weather.provider/.city.CityProvider}
+    proc=ProcessRecord{a83e2b6 22563:com.vivo.weather.provider/u0a40}
+    authority=com.vivo.weather.provider.city
+  * ContentProviderRecord{487fad4 u0 com.android.providers.contacts/.CallRecordPSProvider}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=call_record_ps
+  * ContentProviderRecord{6d05626 u0 com.bbk.cloud/.providers.SmsSignatureProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.signature.sms
+  * ContentProviderRecord{ead7f72 u0 com.android.systemui/.vivo.common.keyguard.magazine.provider.MagazineProvider}
+    proc=ProcessRecord{f56e22a 1388:com.android.systemui/u0a17}
+    authority=com.vivo.keyguard.model.provider.MagazineProvider
+  * ContentProviderRecord{e02fc3 u0 com.baidu.input_bbk.service/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{8c1ab79 1906:com.baidu.input_bbk.service/u0a59}
+    authority=com.baidu.input_bbk.service.upgrade
+  * ContentProviderRecord{8587267 u0 com.bbk.cloud/.providers.ContactCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.contactcache
+  * ContentProviderRecord{32e4814 u0 com.vivo.hybrid/.game.datashare.GameDataShareProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid.gameData
+  * ContentProviderRecord{822f8bd u0 com.bbk.appstore/.provider.AppstoreProvider}
+    proc=ProcessRecord{51b199c 22377:com.bbk.appstore/u0a25}
+    authority=com.bbk.appstore.download
+  * ContentProviderRecord{b27d06c u0 com.vivo.assistant/.settings.search.VivoAssistantSearchIndexablesProvider}
+    proc=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    authority=com.vivo.assistant.settings.search
+  * ContentProviderRecord{ac88e07 u0 com.vivo.pushservice/com.vivo.push.sdk.PushConfigProvider}
+    proc=ProcessRecord{da60810 27251:com.vivo.pushservice/u0a104}
+    authority=com.vivo.push.sdk.service.SystemPushConfig
+  * ContentProviderRecord{fcd635 u0 com.android.phone/.PhoneSearchIndexablesProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=com.android.phone
+  * ContentProviderRecord{ddbaeb2 u0 com.android.mms/.SuggestionsProvider}
+    proc=ProcessRecord{e0e0491 22283:com.android.mms/u0a11}
+    authority=com.android.mms.SuggestionsProvider
+  * ContentProviderRecord{56fce03 u0 com.bbk.cloud/.providers.BlackContactsCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.blacklist
+  * ContentProviderRecord{ab1d180 u0 com.vivo.game/com.vivo.download.DownloadProvider}
+    proc=ProcessRecord{48b63b9 22454:com.vivo.game/u0a115}
+    authority=com.vivo.download.DownloadProvider.vivogame.downloads
+  * ContentProviderRecord{fb4def8 u0 com.iqoo.secure/.provider.SecureProvider}
+    proc=ProcessRecord{e6b88db 1521:com.iqoo.secure:remote/u0a61}
+    launchingApp=ProcessRecord{e6b88db 1521:com.iqoo.secure:remote/u0a61}
+    authority=com.iqoo.secure.provider.secureprovider
+  * ContentProviderRecord{1d203fe u0 com.vivo.hybrid/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid.file
+  * ContentProviderRecord{d09c104 u0 com.vivo.assistant/.services.collect.db.CollectorProvider}
+    proc=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    authority=com.vivo.assistant.CollectorProvider
+  * ContentProviderRecord{7656bcd u0 com.vivo.smartmultiwindow/.AppConfigProvider}
+    proc=ProcessRecord{246268f 2105:com.vivo.smartmultiwindow/1000}
+    launchingApp=ProcessRecord{246268f 2105:com.vivo.smartmultiwindow/1000}
+    authority=com.vivo.smartmultiwindow
+    3 connections, 0 external handles
+      -> 965:system/1000 s0/0 u3/3 +9d3h57m26s836ms
+      -> 1388:com.android.systemui/u0a17 s0/0 u1/1 +9d3h57m26s203ms
+      -> 1541:com.vivo.daemonService/1000 s0/0 u1/1 +9d3h49m11s112ms
+  * ContentProviderRecord{817475f u0 com.vivo.globalsearch/.model.provider.GlobalSearchIndexablesProvider}
+    proc=ProcessRecord{4ce999e 21462:com.vivo.globalsearch/u0a120}
+    authority=com.vivo.globalsearch
+  * ContentProviderRecord{8e3e970 u0 com.iqoo.secure/.provider.BlacklistProvider}
+    proc=ProcessRecord{57fef5a 4599:com.iqoo.secure/u0a61}
+    authority=com.iqoo.secure.provider.blacklistprovider
+  * ContentProviderRecord{c2285ac u0 com.bbk.cloud/.providers.HistoryProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.history
+  * ContentProviderRecord{ca4356e u0 com.vivo.pushservice/com.vivo.upgrade.library.provider.FileProvider}
+    proc=ProcessRecord{da60810 27251:com.vivo.pushservice/u0a104}
+    authority=com.vivo.pushservice.upgrade
+  * ContentProviderRecord{b46740f u0 com.vivo.magazine/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{c140645 14203:com.vivo.magazine/u0a68}
+    authority=com.vivo.magazine.upgrade
+  * ContentProviderRecord{ffc76bc u0 com.vivo.magazine/.sdk.db.MagazineContentProvider}
+    proc=ProcessRecord{c140645 14203:com.vivo.magazine/u0a68}
+    authority=com.vivo.magazine
+  * ContentProviderRecord{6f62c9c u0 com.iqoo.secure/.tmssdk.permission.DummyProvider}
+    proc=ProcessRecord{57fef5a 4599:com.iqoo.secure/u0a61}
+    authority=com.iqoo.secure.tmssdk.permission.DummyProvider
+  * ContentProviderRecord{e758275 u0 com.bbk.cloud/.providers.BillNotesCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.billnotes
+  * ContentProviderRecord{95a1958 u0 com.android.providers.contacts/.NumberMarkProvider}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=number_mark
+  * ContentProviderRecord{da53260 u0 com.vivo.abe/com.vivo.appbehavior.provider.AbeContentProvider}
+    proc=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    authority=com.vivo.abe.highpower.provider
+    1 connections, 0 external handles
+      -> 1541:com.vivo.daemonService/1000 s0/0 u1/1 +9d3h56m45s600ms
+  * ContentProviderRecord{8623a7a u0 com.baidu.input_bbk.service/com.vivo.provider.VivoImeProvider}
+    proc=ProcessRecord{8c1ab79 1906:com.baidu.input_bbk.service/u0a59}
+    authority=com.vivo.ime.provider
+  * ContentProviderRecord{146620a u0 com.vivo.hybrid/org.hapjs.cache.CacheProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid.res
+  * ContentProviderRecord{a92fa7b u0 com.vivo.hybrid/com.vivo.ic.dm.DownloadProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid.ICDM
+  * ContentProviderRecord{f085098 u0 com.vivo.weather.provider/.foreigncity.ForeignCityProvider}
+    proc=ProcessRecord{a83e2b6 22563:com.vivo.weather.provider/u0a40}
+    authority=com.vivo.weather.provider.foreigncity
+  * ContentProviderRecord{ca8d0f1 u0 com.android.mms/.TempFileProvider}
+    proc=ProcessRecord{e0e0491 22283:com.android.mms/u0a11}
+    authority=mms_temp_file
+  * ContentProviderRecord{d347fd7 u0 com.bbk.iqoo.logsystem/.databases.CommonProvider}
+    proc=ProcessRecord{59820c4 2019:com.bbk.iqoo.logsystem/u0a64}
+    authority=com.bbk.iqoo.logsystemes
+  * ContentProviderRecord{fb49fec u0 com.vivo.daemonService/.updater.DaemonServiceProvider}
+    proc=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    authority=com.vivo.daemonService.updater.provider
+  * ContentProviderRecord{ef094d6 u0 com.bbk.cloud/.providers.NotesPictureCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.notespic
+  * ContentProviderRecord{d4cc357 u0 com.android.dialer/.callForwarding.CallForwardingProvider}
+    proc=ProcessRecord{97dde44 22530:com.android.dialer/u0a6}
+    authority=com.android.phone.provider.call_forwarding
+  * ContentProviderRecord{3de7eaf u0 com.android.providers.telephony/.MmsSmsProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=mms-sms
+  * ContentProviderRecord{e88b2d u0 com.vivo.game/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{48b63b9 22454:com.vivo.game/u0a115}
+    authority=com.vivo.game.upgrade
+  * ContentProviderRecord{ee8cba3 u0 com.vivo.assistant/.db.InformationProvider}
+    proc=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    authority=com.vivo.assistant.InformationProvider
+  * ContentProviderRecord{a3c8ea0 u0 com.android.providers.telephony/.SmsRecogProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=sms-recog
+  * ContentProviderRecord{5bed61e u0 com.android.providers.userdictionary/.UserDictionaryProvider}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=user_dictionary
+  * ContentProviderRecord{95ad689 u0 com.android.providers.telephony/.MmsSettingProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=mms-setting
+  * ContentProviderRecord{f392862 u0 com.tencent.mobileqq/.openapi.OpenApiProvider}
+    proc=ProcessRecord{1d6d88b 21435:com.tencent.mobileqq/u0a134}
+    authority=com.tencent.mobileqq.openapi.provider
+  * ContentProviderRecord{cfe362a u0 com.vivo.abe/com.vivo.appbehavior.provider.AbeCommondProvider}
+    proc=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    authority=com.vivo.abe.commod.provider
+  * ContentProviderRecord{b3a0c1b u0 com.vivo.abe/com.vivo.core.configlist.AbeConfigDataProvider}
+    proc=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    authority=com.vivo.abe.configlist.provider
+  * ContentProviderRecord{9094b91 u0 com.android.phone/.IccProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=icc
+  * ContentProviderRecord{1218af6 u0 com.vivo.abe/com.vivo.thirdlifecontrol.util.AbeThirdAppLifeContentProvider}
+    proc=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    authority=com.vivo.abe.thirdapp.lifecontrol.provider
+  * ContentProviderRecord{3e34ef7 u0 com.vivo.assistant/.easytransfer.moduleTransfer.TransferCollectorProvider}
+    proc=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    authority=com.vivo.assistant.CollectorProvider_easytransfer
+  * ContentProviderRecord{3703df3 u0 com.vivo.game/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{48b63b9 22454:com.vivo.game/u0a115}
+    authority=com.vivo.game.fileprovider
+  * ContentProviderRecord{2be2f6b u0 com.vivo.daemonService/.unifiedconfig.UnifiedConfigProvider}
+    proc=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    launchingApp=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    authority=com.vivo.daemonservice.unifiedconfigprovider
+    10 connections, 0 external handles
+      -> 1388:com.android.systemui/u0a17 s0/0 u1/1 +9d3h57m28s719ms
+      -> 1521:com.iqoo.secure:remote/u0a61 s0/0 u1/1 +9d3h57m27s741ms
+      -> 1575:com.android.phone/1001 s0/0 u1/1 +9d3h57m25s377ms
+      -> 2754:android.process.media/u0a7 s0/0 u1/1 +9d3h57m1s247ms
+      -> 4599:com.iqoo.secure/u0a61 s0/0 u1/1 +9d3h56m54s813ms
+      -> 17457:com.bbk.updater/u0a92 s0/0 u1/1 +9d2h42m2s107ms
+      -> 1906:com.baidu.input_bbk.service/u0a59 s0/0 u1/1 +9d1h33m22s134ms
+      -> 9795:com.bbk.launcher2/u0a29 s0/0 u1/1 +7d0h39m18s31ms
+      -> 27251:com.vivo.pushservice/u0a104 s0/0 u1/1 +1d23h21m19s473ms
+      -> 21462:com.vivo.globalsearch/u0a120 s0/0 u1/1 +59m49s907ms
+  * ContentProviderRecord{7d13e19 u0 com.android.providers.media/.MediaProvider}
+    proc=ProcessRecord{bc780fc 2754:android.process.media/u0a7}
+    authority=media
+  * ContentProviderRecord{69c9ab0 u0 com.vivo.hybrid/org.hapjs.card.support.provider.CardProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=hapjs.card.provider
+  * ContentProviderRecord{3536082 u0 com.vivo.securedaemonservice/com.vivo.preventautostartservice.PreventAutoStartProvider}
+    proc=ProcessRecord{68e3c4 2207:com.vivo.securedaemonservice/1000}
+    authority=com.vivo.provider.preventautostartservice
+  * ContentProviderRecord{873e393 u0 com.android.providers.telephony/.SmsPhraseProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=phrase
+  * ContentProviderRecord{befad29 u0 com.vivo.game/.core.push.db.MsgProvider}
+    proc=ProcessRecord{48b63b9 22454:com.vivo.game/u0a115}
+    authority=com.vivo.game
+  * ContentProviderRecord{28568ae u0 com.svox.pico/.providers.SettingsProvider}
+    proc=ProcessRecord{d46c64f 22487:com.svox.pico/u0a77}
+    authority=com.svox.pico.providers.SettingsProvider
+  * ContentProviderRecord{625fc03 u0 com.android.providers.telephony/.SmsProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=sms
+  * ContentProviderRecord{9bc28fc u0 com.vivo.abe/com.vivo.bugfeedback.providers.BugFeedbackProvider}
+    proc=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    authority=com.vivo.abe.bugfeedback.provider
+  * ContentProviderRecord{7a8b1dc u0 com.bbk.appstore/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{51b199c 22377:com.bbk.appstore/u0a25}
+    authority=com.bbk.appstore.upgrade
+  * ContentProviderRecord{a287dda u0 com.vivo.assistant/.easytransfer.moduleTransfer.TransferInformationProvider}
+    proc=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    authority=com.vivo.assistant.InformationProvider_easytransfer
+  * ContentProviderRecord{c68e8a4 u0 com.bbk.launcher2/.data.LauncherProvider}
+    proc=ProcessRecord{1bf43e 9795:com.bbk.launcher2/u0a29}
+    authority=com.bbk.launcher2.settings
+  * ContentProviderRecord{52cf2e5 u0 com.bbk.cloud/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.upgrade
+  * ContentProviderRecord{d6edd46 u0 com.tencent.mobileqq/com.tencent.mqq.shared_file_accessor.ContentProviderImpl}
+    proc=ProcessRecord{1d6d88b 21435:com.tencent.mobileqq/u0a134}
+    launchingApp=ProcessRecord{1d6d88b 21435:com.tencent.mobileqq/u0a134}
+    authority=com.tencent.mqq.shared_file_accessor.ContentProviderImpl
+  * ContentProviderRecord{84361ba u0 com.bbk.cloud/.providers.NetEntryWarningProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.netentry
+  * ContentProviderRecord{7c10180 u0 com.iqoo.secure/.clean.provider.SoftCacheProvider}
+    proc=ProcessRecord{e6b88db 1521:com.iqoo.secure:remote/u0a61}
+    authority=com.iqoo.secure.provider.softcacheprovider
+  * ContentProviderRecord{2f041b9 u0 com.android.providers.telephony/.SmsTimeProvider}
+    proc=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    authority=ti
+  * ContentProviderRecord{c53786b u0 com.bbk.cloud/.providers.BlackSignatureProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.signature.black
+  * ContentProviderRecord{bfd0fc8 u0 com.bbk.cloud/.providers.BookMarksCacheProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.bookmark
+  * ContentProviderRecord{b9e9b94 u0 com.iqoo.secure/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{57fef5a 4599:com.iqoo.secure/u0a61}
+    authority=com.iqoo.secure.upgrade
+  * ContentProviderRecord{678865a u0 com.vivo.appfilter/.provider.SecureProvider}
+    proc=ProcessRecord{be3834e 1330:com.vivo.appfilter/1000}
+    authority=com.vivo.appfilter.provider.secureprovider
+    1 connections, 0 external handles
+      -> 965:system/1000 s0/0 u1/1 +9d3h57m28s993ms
+  * ContentProviderRecord{d28ee32 u0 com.iqoo.secure/com.avl.engine.security.AVLProvider}
+    proc=ProcessRecord{57fef5a 4599:com.iqoo.secure/u0a61}
+    authority=com.iqoo.secure.AVLprovider
+  * ContentProviderRecord{23ed861 u0 com.vivo.hybrid/org.hapjs.persistence.HybridProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid
+  * ContentProviderRecord{b44df5e u0 com.android.providers.contacts/.ContactsProvider2}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=contacts;com.android.contacts
+  * ContentProviderRecord{1dfa500 u0 com.android.providers.downloads/.DownloadStorageProvider}
+    proc=ProcessRecord{bc780fc 2754:android.process.media/u0a7}
+    authority=com.android.providers.downloads.documents
+  * ContentProviderRecord{24b4939 u0 com.vivo.abe/com.vivo.upgrade.library.provider.FileProvider}
+    proc=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    authority=com.vivo.abe.upgrade
+  * ContentProviderRecord{bb76074 u0 com.vivo.game/.model.GameProvider}
+    proc=ProcessRecord{48b63b9 22454:com.vivo.game/u0a115}
+    authority=com.vivo.game.itemInfo
+  * ContentProviderRecord{a2f999d u0 com.tencent.mobileqq/.content.FriendListProvider}
+    proc=ProcessRecord{1d6d88b 21435:com.tencent.mobileqq/u0a134}
+    authority=qq.friendlist
+  * ContentProviderRecord{d9c92c u0 com.vivo.assistant/com.vivo.upgradelibrary.utils.FileProvider}
+    proc=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    authority=com.vivo.assistant.upgrade
+  * ContentProviderRecord{c0e3ff5 u0 com.vivo.magazine/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{c140645 14203:com.vivo.magazine/u0a68}
+    authority=com.vivo.magazine.image.provider
+  * ContentProviderRecord{60c118a u0 com.android.providers.contacts/.VoicemailContentProvider}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=com.android.voicemail
+  * ContentProviderRecord{e4cb317 u0 com.android.providers.contacts/.smartdialer.SmartDialerProvider}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=com.android.contacts.smartdialer
+  * ContentProviderRecord{3806e12 u0 com.bbk.appstore/android.support.v4.content.FileProvider}
+    proc=ProcessRecord{51b199c 22377:com.bbk.appstore/u0a25}
+    authority=com.bbk.appstore.fileprovider
+  * ContentProviderRecord{4610e71 u0 com.android.providers.media/.MediaDocumentsProvider}
+    proc=ProcessRecord{bc780fc 2754:android.process.media/u0a7}
+    authority=com.android.providers.media.documents
+  * ContentProviderRecord{acfe671 u0 com.vivo.assistant/.provider.AssistantStateProvider}
+    proc=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    authority=com.vivo.assistant.state
+  * ContentProviderRecord{32489e3 u0 com.vivo.hybrid/org.hapjs.bridge.provider.SettingsProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid.settings
+  * ContentProviderRecord{94394d7 u0 com.bbk.updater/.provider.InstallAndShutdownJusticeProvider}
+    proc=ProcessRecord{9a906aa 17457:com.bbk.updater/u0a92}
+    authority=com.bbk.updater.provider
+  * ContentProviderRecord{1240fe0 u0 com.bbk.appstore/com.vivo.download.DownloadProvider}
+    proc=ProcessRecord{51b199c 22377:com.bbk.appstore/u0a25}
+    authority=com.vivo.download.DownloadProvider.vivoAppStore.downloads
+  * ContentProviderRecord{62b78ad u0 com.android.providers.contacts/.debug.DumpFileProvider}
+    proc=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    authority=com.android.contacts.dumpfile
+  * ContentProviderRecord{17fe53 u0 com.example.tasktemp/com.android.tools.ir.server.InstantRunContentProvider}
+    proc=ProcessRecord{e6c390 24344:com.example.tasktemp/u0a313}
+    authority=com.example.tasktemp.com.android.tools.ir.server.InstantRunContentProvider
+  * ContentProviderRecord{9c2a773 u0 com.mediatek.ims/.config.internal.ImsConfigProvider}
+    proc=ProcessRecord{a880f92 1971:com.mediatek.ims/1001}
+    authority=com.mediatek.ims.config.provider
+  * ContentProviderRecord{18be13f u0 com.vivo.weather.provider/.WeatherProvider}
+    proc=ProcessRecord{a83e2b6 22563:com.vivo.weather.provider/u0a40}
+    authority=com.vivo.weather.provider
+  * ContentProviderRecord{cd88630 u0 com.iqoo.secure/.provider.UrlQueryProvider}
+    proc=ProcessRecord{e6b88db 1521:com.iqoo.secure:remote/u0a61}
+    authority=com.iqoo.secure.provider.virusurls
+  * ContentProviderRecord{cea4a0c u0 com.tencent.mobileqq/.emoticon.EmoticonContentProvider}
+    proc=ProcessRecord{1d6d88b 21435:com.tencent.mobileqq/u0a134}
+    authority=qq.emoticon
+  * ContentProviderRecord{3995f55 u0 com.vivo.hybrid/org.hapjs.features.adapter.StorageProvider}
+    proc=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    authority=com.vivo.hybrid.storage
+  * ContentProviderRecord{417ad6a u0 com.bbk.cloud/.providers.VCloudSyncRecordProvider}
+    proc=ProcessRecord{da0b450 22586:com.bbk.cloud/u0a27}
+    authority=com.bbk.cloud.syncrecord
+
+ACTIVITY MANAGER URI PERMISSIONS (dumpsys activity permissions)
+  Granted Uri Permissions:
+  * UID 10025 holds:
+    UriPermission{becaf04 0 @ content://downloads/all_downloads/11}
+
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  User 0 active services:
+  * ServiceRecord{31dd3c9 u0 com.android.providers.media/.MediaScannerNullService}
+    app=ProcessRecord{bc780fc 2754:android.process.media/u0a7}
+    created=-9d3h57m22s203ms started=true connections=0
+  * ServiceRecord{4cd1bb9 u0 com.vivo.abe/com.vivo.messagecore.oldmessagecenter.compatibility.ExternalCallService}
+    app=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    created=-9d3h57m29s20ms started=true connections=1
+    Connections:
+      act=com.vivo.messagecenter.display.displayservice pkg=com.vivo.abe -> 1330:com.vivo.appfilter/1000
+  * ServiceRecord{7c52392 u0 com.vivo.daemonService/.sdnoti.MediaPlugService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s455ms started=true connections=0
+  * ServiceRecord{8b300ca u0 com.vivo.daemonService/.batterywarning.BatteryWarningService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s591ms started=true connections=0
+  * ServiceRecord{3345478 u0 com.vivo.globalsearch/.presenter.service.SearchService}
+    app=ProcessRecord{4ce999e 21462:com.vivo.globalsearch/u0a120}
+    created=-59m50s588ms started=true connections=1
+    Connections:
+      act=com.vivo.globalsearch.service pkg=com.vivo.globalsearch -> 9795:com.bbk.launcher2/u0a29
+  * ServiceRecord{fe583f0 u0 com.vivo.abe/com.vivo.appstatistic.AppStatisticService}
+    app=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    created=-7d0h39m0s725ms started=false connections=1
+    Connections:
+      act=com.vivo.appstatistic.AppStatisticService pkg=com.vivo.abe -> 9795:com.bbk.launcher2/u0a29
+  * ServiceRecord{f9c06d5 u0 com.android.systemui/.keyguard.KeyguardService}
+    app=ProcessRecord{f56e22a 1388:com.android.systemui/u0a17}
+    created=-9d3h57m25s701ms started=false connections=2
+    Connections:
+      act=vivo.intent.action.MAGAZINE_REMOTE_VIEW -> 1388:com.android.systemui/u0a17
+       -> 965:system/1000
+  * ServiceRecord{8610c02 u0 com.vivo.devicereg/.service.RegService}
+    app=ProcessRecord{77d55c 3225:com.vivo.devicereg/u0a50}
+    created=-6h37m20s468ms started=true connections=0
+  * ServiceRecord{bde2f78 u0 com.iqoo.secure/.service.SoftwareLockService}
+    app=ProcessRecord{e6b88db 1521:com.iqoo.secure:remote/u0a61}
+    created=-9d3h57m27s447ms started=true connections=0
+  * ServiceRecord{8543de7 u0 com.vivo.magazine/.MagazineService}
+    app=ProcessRecord{c140645 14203:com.vivo.magazine/u0a68}
+    created=-9d3h57m25s918ms started=true connections=1
+    Connections:
+      act=com.vivo.magazine.MagazineService -> 1388:com.android.systemui/u0a17
+      act=com.vivo.magazine.MagazineService -> 1388:com.android.systemui/u0a17
+      act=com.vivo.magazine.MagazineService -> 1388:com.android.systemui/u0a17
+  * ServiceRecord{213f4cf u0 com.android.systemui/.ImageWallpaper}
+    app=ProcessRecord{f56e22a 1388:com.android.systemui/u0a17}
+    created=-9d3h57m27s494ms started=false connections=1
+    Connections:
+      act=android.service.wallpaper.WallpaperService -> 965:system/1000
+  * ServiceRecord{42854f4 u0 com.android.providers.media/.FileObserverService}
+    app=ProcessRecord{bc780fc 2754:android.process.media/u0a7}
+    created=-9d3h57m1s261ms started=true connections=0
+  * ServiceRecord{83730 u0 com.android.providers.contacts/.smartdialer.BBKDialerInitService}
+    app=ProcessRecord{f6fbfcd 4075:android.process.acore/u0a4}
+    created=-9d3h57m1s430ms started=true connections=0
+  * ServiceRecord{b27d32b u0 com.bbk.launcher2/.appstore.DownloadPackageService}
+    app=ProcessRecord{1bf43e 9795:com.bbk.launcher2/u0a29}
+    created=-46m20s218ms started=false connections=1
+    Connections:
+      act=com.bbk.launcher2.appstore.DownloadPackageService pkg=com.bbk.launcher2 -> 22377:com.bbk.appstore/u0a25
+  * ServiceRecord{5f243c2 u0 com.amap.android.location/.NetworkLocationService}
+    app=ProcessRecord{46a9230 1929:com.amap.android.location/u0a71}
+    created=-9d3h57m26s31ms started=false connections=1
+    Connections:
+      act=com.android.location.service.v2.NetworkLocationProvider pkg=com.amap.android.location -> 965:system/1000
+  * ServiceRecord{ab79c7f u0 com.vivo.abe/com.vivo.modules.sales.SalesFetchService}
+    app=ProcessRecord{7301065 3869:com.vivo.abe:bin/1000}
+    created=-9d3h57m4s359ms started=false connections=1
+    Connections:
+       -> 1424:com.vivo.abe/1000
+  * ServiceRecord{5f2b577 u0 com.vivo.appfilter/.service.PreventAutoStartService}
+    app=ProcessRecord{be3834e 1330:com.vivo.appfilter/1000}
+    created=-9d3h57m29s44ms started=true connections=0
+  * ServiceRecord{bc2e2e9 u0 com.vivo.daemonService/.LocationDialog.LocationDialogService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s540ms started=true connections=0
+  * ServiceRecord{819175a u0 com.vivo.smartmultiwindow/.services.InitService}
+    app=ProcessRecord{246268f 2105:com.vivo.smartmultiwindow/1000}
+    created=-9d3h57m26s579ms started=true connections=0
+  * ServiceRecord{88098b4 u0 com.vivo.daemonService/.vivolog.VivologAlarmService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h56m56s617ms started=true connections=0
+  * ServiceRecord{8355ee6 u0 com.bbk.iqoo.logsystem/.services.LogCollectService}
+    app=ProcessRecord{59820c4 2019:com.bbk.iqoo.logsystem/u0a64}
+    created=-9d3h56m58s618ms started=true connections=0
+  * ServiceRecord{bea8141 u0 com.iqoo.secure/.service.FloatWindowManagerService}
+    app=ProcessRecord{e6b88db 1521:com.iqoo.secure:remote/u0a61}
+    created=-9d3h57m27s271ms started=true connections=0
+  * ServiceRecord{4b1123b u0 com.vivo.daemonService/.motion.DeviceListener}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s579ms started=true connections=0
+  * ServiceRecord{28cfca5 u0 com.vivo.assistant/.ui.hiboard.HiBoardDataService}
+    app=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    created=-9d3h57m11s113ms started=true connections=0
+  * ServiceRecord{ec43580 u0 com.vivo.securedaemonservice/.DaemonService}
+    app=ProcessRecord{68e3c4 2207:com.vivo.securedaemonservice/1000}
+    created=-9d3h57m26s124ms started=true connections=0
+  * ServiceRecord{cc7f866 u0 com.vivo.pem/.core.hide.io.PemService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m21s120ms started=true connections=1
+    Connections:
+      act=com.vivo.pem.PemService pkg=com.vivo.pem -> 965:system/1000
+  * ServiceRecord{c1cba36 u0 com.vivo.securedaemonservice/.EmptyService}
+    app=ProcessRecord{68e3c4 2207:com.vivo.securedaemonservice/1000}
+    created=-9d3h57m26s38ms started=true connections=0
+  * ServiceRecord{969e41e u0 com.vivo.hybrid/.main.HybridService}
+    app=ProcessRecord{59fd264 21391:com.vivo.hybrid/u0a57}
+    created=-59m51s975ms started=false connections=1
+    Connections:
+      act=com.vivo.hybrid.main.BindHybrid pkg=com.vivo.hybrid -> 9795:com.bbk.launcher2/u0a29
+  * ServiceRecord{7ccf8f u0 com.vivo.daemonService/.unifiedconfig.UnifiedConfigService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h56m56s721ms started=true connections=0
+  * ServiceRecord{eebbfbc u0 com.vivo.doubleinstance/.WhitelistQureyService}
+    app=ProcessRecord{e97d2d5 2258:com.vivo.doubleinstance/1000}
+    created=-7d0h39m18s293ms started=true connections=2
+    Connections:
+      act=com.vivo.doubleinstance.WhitelistQureyService -> 9795:com.bbk.launcher2/u0a29
+      act=com.vivo.doubleinstance.WhitelistQureyService -> 21462:com.vivo.globalsearch/u0a120
+  * ServiceRecord{9cc08b5 u0 com.vivo.devicereg/.ctrl.CtrlServer}
+    app=ProcessRecord{77d55c 3225:com.vivo.devicereg/u0a50}
+    created=-9d3h57m18s187ms started=true connections=0
+  * ServiceRecord{c53cb6e u0 com.vivo.daemonService/.usb.UsbDeviceManagerService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s537ms started=true connections=0
+  * ServiceRecord{793f13a u0 com.android.bluetooth/.a2dp.A2dpService}
+    app=null
+    created=-9d3h57m27s569ms started=false connections=1
+    Connections:
+      act=android.bluetooth.IBluetoothA2dp -> 965:system/1000
+  * ServiceRecord{31a641a u0 com.vivo.upslide/.UpSlideService}
+    app=ProcessRecord{9be4b0 2052:com.vivo.upslide/1000}
+    created=-9d3h57m25s74ms started=true connections=1
+    Connections:
+       -> 1388:com.android.systemui/u0a17
+  * ServiceRecord{501c1f1 u0 com.vivo.daemonService/.msgpush.MsgPushService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-5h35m41s784ms started=true connections=0
+  * ServiceRecord{794ed58 u0 com.vivo.daemonService/.IqooSecure.ScreenLockMonitorService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s568ms started=true connections=0
+  * ServiceRecord{6a292bb u0 com.android.systemui/.SystemUIService}
+    app=ProcessRecord{f56e22a 1388:com.android.systemui/u0a17}
+    created=-9d3h57m29s181ms started=true connections=1
+    Connections:
+       -> 2052:com.vivo.upslide/1000
+  * ServiceRecord{6d4328f u0 com.bbk.updater/.usage.CalculateService}
+    app=ProcessRecord{9a906aa 17457:com.bbk.updater/u0a92}
+    created=-9d1h2m41s391ms started=true connections=0
+  * ServiceRecord{aaf82d6 u0 android/.hardware.location.GeofenceHardwareService}
+    app=ProcessRecord{d4943c7 965:system/1000}
+    created=-9d3h57m27s314ms started=false connections=1
+    Connections:
+       -> 965:system/1000
+  * ServiceRecord{8d792b4 u0 com.vivo.abe/com.vivo.core.AbeCoreService}
+    app=ProcessRecord{db47edd 1424:com.vivo.abe/1000}
+    created=-9d3h57m4s365ms started=true connections=0
+  * ServiceRecord{add7c4 u0 com.vivo.daemonService/.UmsLogCatcher.UmsLogCatcherService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s494ms started=true connections=0
+  * ServiceRecord{801dd41 u0 com.vivo.assistant/.services.AssistantManagerService}
+    app=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    created=-9d3h57m23s195ms started=true connections=0
+  * ServiceRecord{8327aa7 u0 com.android.server.telecom/.BluetoothPhoneService}
+    app=ProcessRecord{cf6cb37 2039:com.android.server.telecom/1000}
+    created=-9d3h57m26s249ms started=true connections=0
+  * ServiceRecord{855d3de u0 com.android.stk/.StkAppService}
+    app=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    created=-9d3h57m18s453ms started=true connections=0
+  * ServiceRecord{ac2b2d7 u0 com.vivo.daemonService/.gms.GmsMonitor}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s500ms started=true connections=0
+  * ServiceRecord{32ca4b5 u0 com.vivo.daemonService/.IqooSecure.BackgroundCleanPkgService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h56m28s548ms started=true connections=0
+  * ServiceRecord{8f4b666 u0 com.android.providers.telephony/.VisitorModeDataProcess}
+    app=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    created=-9d3h57m28s327ms started=false connections=1
+    Connections:
+       -> 1575:com.android.phone/1001
+  * ServiceRecord{bb986cc u0 com.vivo.pushservice/com.vivo.core.AbeCoreService}
+    app=ProcessRecord{da60810 27251:com.vivo.pushservice/u0a104}
+    created=-9d3h57m25s887ms started=true connections=0
+  * ServiceRecord{b05956 u0 com.vivo.pushservice/com.vivo.push.sdk.service.PushService}
+    app=ProcessRecord{da60810 27251:com.vivo.pushservice/u0a104}
+    created=-1d23h26m31s664ms started=true connections=1
+    Connections:
+      act=com.vivo.vms.aidlservice pkg=com.vivo.pushservice -> 27251:com.vivo.pushservice/u0a104
+  * ServiceRecord{aa27063 u0 com.iqoo.secure/.service.DataUsageService}
+    app=ProcessRecord{e6b88db 1521:com.iqoo.secure:remote/u0a61}
+    created=-9d3h57m27s458ms started=true connections=0
+  * ServiceRecord{26ec04 u0 com.android.providers.media/.MtpService}
+    app=ProcessRecord{bc780fc 2754:android.process.media/u0a7}
+    created=-4h11m10s684ms started=true connections=1
+    Connections:
+       -> 2754:android.process.media/u0a7
+  * ServiceRecord{6909216 u0 com.vivo.devicereg/cn.richinfo.dm.service.DMService}
+    app=ProcessRecord{77d55c 3225:com.vivo.devicereg/u0a50}
+    created=-9d3h57m18s133ms started=true connections=0
+  * ServiceRecord{f8e1b7d u0 android/com.android.internal.backup.LocalTransportService}
+    app=ProcessRecord{d4943c7 965:system/1000}
+    created=-9d3h57m29s590ms started=false connections=1
+    Connections:
+      act=android.backup.TRANSPORT_HOST -> 965:system/1000
+  * ServiceRecord{18cb37f u0 com.android.location.fused/.FusedLocationService}
+    app=ProcessRecord{d4943c7 965:system/1000}
+    created=-9d3h57m27s331ms started=false connections=1
+    Connections:
+      act=com.android.location.service.FusedLocationProvider pkg=com.android.location.fused -> 965:system/1000
+  * ServiceRecord{301e2be u0 com.amap.android.location/.GeocodeService}
+    app=ProcessRecord{46a9230 1929:com.amap.android.location/u0a71}
+    created=-9d3h57m25s983ms started=false connections=1
+    Connections:
+      act=com.android.location.service.GeocodeProvider pkg=com.amap.android.location -> 965:system/1000
+  * ServiceRecord{fd93941 u0 com.bbk.iqoo.logsystem/.services.StartupIntentService}
+    app=ProcessRecord{59820c4 2019:com.bbk.iqoo.logsystem/u0a64}
+    created=-9d3h56m58s645ms started=true connections=0
+  * ServiceRecord{ed21a1f u0 com.vivo.assistant/.ui.hiboard.SceneHBoardService}
+    app=ProcessRecord{7a0087a 2066:com.vivo.assistant/1000}
+    created=-2d4h57m4s269ms started=false connections=2
+    Connections:
+      act=com.vivo.assistant.action.SceneHBoardService pkg=com.vivo.assistant -> 9795:com.bbk.launcher2/u0a29
+      act=com.vivo.assistant.action.SceneHBoardService pkg=com.vivo.assistant -> 9795:com.bbk.launcher2/u0a29
+  * ServiceRecord{84b3958 u0 com.amap.android.location/.internal.server.NetworkLocationService}
+    app=ProcessRecord{46a9230 1929:com.amap.android.location/u0a71}
+    created=-9d3h57m25s972ms started=false connections=1
+    Connections:
+      act=com.amap.android.location.internal.ANDROID_NLP pkg=com.amap.android.location -> 1929:com.amap.android.location/u0a71
+  * ServiceRecord{3074b54 u0 com.vivo.securedaemonservice/.SecureDaemonservice}
+    app=ProcessRecord{68e3c4 2207:com.vivo.securedaemonservice/1000}
+    created=-9d3h57m26s313ms started=false connections=2
+    Connections:
+      act=vivo.intent.action.SECURE_DAEMON_SERVICE pkg=com.vivo.securedaemonservice -> 1521:com.iqoo.secure:remote/u0a61
+      act=vivo.intent.action.SECURE_DAEMON_SERVICE pkg=com.vivo.securedaemonservice -> 1521:com.iqoo.secure:remote/u0a61
+  * ServiceRecord{e44b91c u0 com.vivo.daemonService/.netStateStat.NetStateStatService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m17s971ms started=true connections=0
+  * ServiceRecord{99e32da u0 com.vivo.game/.update.GameReceiverService}
+    app=ProcessRecord{48b63b9 22454:com.vivo.game/u0a115}
+    created=-46m19s789ms started=true connections=0
+  * ServiceRecord{e5f24ec u0 com.vivo.appfilter/.service.VivoBringupManagerService}
+    app=ProcessRecord{be3834e 1330:com.vivo.appfilter/1000}
+    created=-9d3h57m29s359ms started=true connections=0
+  * ServiceRecord{b4e1398 u0 com.vivo.abe/com.vivo.rms.dispatcher.RmsService}
+    app=ProcessRecord{95aeb48 3939:com.vivo.rms/1000}
+    created=-9d3h57m3s585ms started=false connections=1
+    Connections:
+       -> 1424:com.vivo.abe/1000
+  * ServiceRecord{1a1008f u0 com.android.mms.service/.MmsService}
+    app=ProcessRecord{21a1fcb 1575:com.android.phone/1001}
+    created=-9d3h57m0s137ms started=false connections=1
+    Connections:
+       -> 965:system/1000
+  * ServiceRecord{a0a20a9 u0 com.vivo.daemonService/.SmartMultiWindow.SmartMultiWindowService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s487ms started=true connections=0
+  * ServiceRecord{682cb24 u0 com.baidu.input_bbk.service/.PinyinIME}
+    app=ProcessRecord{8c1ab79 1906:com.baidu.input_bbk.service/u0a59}
+    created=-9d3h57m27s480ms started=false connections=1
+    Connections:
+      act=android.view.InputMethod -> 965:system/1000
+  * ServiceRecord{d35431d u0 com.mediatek.gba/.GbaService}
+    app=ProcessRecord{f3fe706 1957:com.mediatek.gba/1001}
+    created=-9d3h57m26s707ms started=true connections=0
+  * ServiceRecord{150fb48 u0 com.tencent.mobileqq/.msf.service.MsfService}
+    app=ProcessRecord{fd6ba3a 21419:com.tencent.mobileqq:MSF/u0a134}
+    created=-2d3h11m5s945ms started=true connections=0
+  * ServiceRecord{5b6a36f u0 com.vivo.fuelsummary/.FuelSummaryService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m3s948ms started=true connections=0
+  * ServiceRecord{f080f70 u0 com.vivo.daemonService/.MtpPrompt.MtpPromptService}
+    app=ProcessRecord{52efac8 1541:com.vivo.daemonService/1000}
+    created=-9d3h57m28s542ms started=true connections=0
+
+ACTIVITY MANAGER RECENT TASKS (dumpsys activity recents)
+  Recent tasks:
+  * Recent #0: TaskRecord{546ec8e #847 A=com.example.TaskActivity1 U=0 sz=1}
+  * Recent #1: TaskRecord{f1a2caf #846 A=com.example.tasktemp.first U=0 sz=1}
+  * Recent #2: TaskRecord{3d773f4 #1 A=com.bbk.launcher2 U=0 sz=1}
+  * Recent #3: TaskRecord{fa2968e #845 A=com.example.TaskActivity2 U=0 sz=0}
+  * Recent #4: TaskRecord{7cd5ff #841 A=com.example.TaskActivity3 U=0 sz=0}
+  * Recent #5: TaskRecord{ad6d5b3 #679 A=com.android.wifisettings U=0 sz=0}
+  * Recent #6: TaskRecord{e07b770 #674 A=com.vivo.abe U=0 sz=0}
+  * Recent #7: TaskRecord{c86f1f7 #568 A=com.baidu.input_bbk.service U=0 sz=0}
+
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+Display #0 (activities from top to bottom):
+  Stack #1:
+    Task id #847
+      TaskRecord{546ec8e #847 A=com.example.TaskActivity1 U=0 sz=1}
+      Intent { flg=0x10008000 cmp=com.example.tasktemp/.TaskActivity1 (has extras) }
+        Hist #0: ActivityRecord{b280bc1 u0 com.example.tasktemp/.TaskActivity1 t847}
+          Intent { flg=0x10408000 cmp=com.example.tasktemp/.TaskActivity1 (has extras) }
+          ProcessRecord{e6c390 24344:com.example.tasktemp/u0a313}
+    Task id #846
+      TaskRecord{f1a2caf #846 A=com.example.tasktemp.first U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.tasktemp/.MainActivity }
+        Hist #0: ActivityRecord{e1afe6a u0 com.example.tasktemp/.MainActivity t846}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.tasktemp/.MainActivity }
+          ProcessRecord{e6c390 24344:com.example.tasktemp/u0a313}
+
+    Running activities (most recent first):
+      TaskRecord{546ec8e #847 A=com.example.TaskActivity1 U=0 sz=1}
+        Run #1: ActivityRecord{b280bc1 u0 com.example.tasktemp/.TaskActivity1 t847}
+      TaskRecord{f1a2caf #846 A=com.example.tasktemp.first U=0 sz=1}
+        Run #0: ActivityRecord{e1afe6a u0 com.example.tasktemp/.MainActivity t846}
+
+    mResumedActivity: ActivityRecord{b280bc1 u0 com.example.tasktemp/.TaskActivity1 t847}
+
+  Stack #0:
+    Task id #1
+      TaskRecord{3d773f4 #1 A=com.bbk.launcher2 U=0 sz=1}
+      Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.bbk.launcher2/.Launcher }
+        Hist #0: ActivityRecord{77ffaff u0 com.bbk.launcher2/.Launcher t1}
+          Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10800000 cmp=com.bbk.launcher2/.Launcher }
+          ProcessRecord{1bf43e 9795:com.bbk.launcher2/u0a29}
+
+    Running activities (most recent first):
+      TaskRecord{3d773f4 #1 A=com.bbk.launcher2 U=0 sz=1}
+        Run #0: ActivityRecord{77ffaff u0 com.bbk.launcher2/.Launcher t1}
+
+  mFocusedActivity: ActivityRecord{b280bc1 u0 com.example.tasktemp/.TaskActivity1 t847}
+  mFocusedStack=ActivityStack{95edcd5 stackId=1, 2 tasks} mLastFocusedStack=ActivityStack{95edcd5 stackId=1, 2 tasks}
+  mSleepTimeout=false
+  mCurTaskId=847
+  mUserStackInFront={}
+  mActivityContainers={0=ActivtyContainer{0}A, 1=ActivtyContainer{1}A}
+  mLockTaskModeState=NONE mLockTaskPackages (userId:packages)=
+    0:[]
+ mLockTaskModeTasks[]
+
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  Isolated process list (sorted by uid):
+    Isolated # 0: ProcessRecord{66b1cea 1363:WebViewLoader-arm64-v8a/1037}
+
+  UID states:
+    UID 1000: UidRecord{566cbdb 1000 P  / 14 procs}
+    UID 1001: UidRecord{543b678 1001 P  / 4 procs}
+    UID 1037: UidRecord{83d7151 1037 CE / 2 procs}
+    UID u0a4: UidRecord{561db6 u0a4 S  / 1 procs}
+    UID u0a5: UidRecord{a90df16 u0a5 CE / 1 procs}
+    UID u0a6: UidRecord{f7faf8 u0a6 CE / 1 procs}
+    UID u0a7: UidRecord{396d18d u0a7 S  / 1 procs}
+    UID u0a11: UidRecord{bdd9bd1 u0a11 CE / 1 procs}
+    UID u0a13: UidRecord{77b3636 u0a13 CE / 1 procs}
+    UID u0a17: UidRecord{4abf989 u0a17 P  / 1 procs}
+    UID u0a25: UidRecord{dbeb937 u0a25 CE / 1 procs}
+    UID u0a27: UidRecord{e2dcea4 u0a27 CE / 1 procs}
+    UID u0a29: UidRecord{dd1a545 u0a29 HO / 1 procs}
+    UID u0a40: UidRecord{54f240d u0a40 CE / 1 procs}
+    UID u0a50: UidRecord{bee61cb u0a50 S  / 1 procs}
+    UID u0a57: UidRecord{ebc7fc2 u0a57 HO / 1 procs}
+    UID u0a59: UidRecord{7ec50c1 u0a59 IB / 1 procs}
+    UID u0a60: UidRecord{73bb1d3 u0a60 CE / 1 procs}
+    UID u0a61: UidRecord{87f4fa7 u0a61 T  / 2 procs}
+    UID u0a64: UidRecord{aa3fc54 u0a64 P  / 1 procs}
+    UID u0a68: UidRecord{bac37fd u0a68 IF / 1 procs}
+    UID u0a71: UidRecord{c111cf2 u0a71 IB / 1 procs}
+    UID u0a77: UidRecord{cb3110 u0a77 CE / 1 procs}
+    UID u0a92: UidRecord{76e89c0 u0a92 S  / 1 procs}
+    UID u0a96: UidRecord{61c88bc u0a96 CE / 1 procs}
+    UID u0a104: UidRecord{a90163e u0a104 P  / 1 procs}
+    UID u0a115: UidRecord{385982f u0a115 S  / 1 procs}
+    UID u0a120: UidRecord{79a4e3c u0a120 S  / 1 procs}
+    UID u0a134: UidRecord{ef1c7c5 u0a134 S  / 2 procs}
+    UID u0a313: UidRecord{937b045 u0a313 T  / 1 procs}
+
+  Process LRU list (sorted by oom_adj, 47 total, non-act at 6, non-svc at 6):
+    PERS #46: sys   F/ /P  trm: 0 965:system/1000 (fixed)
+    PERS #45: pers  F/ /P  trm: 0 1388:com.android.systemui/u0a17 (fixed)
+    PERS #44: pers  F/ /P  trm: 0 1424:com.vivo.abe/1000 (fixed)
+    PERS #43: pers  F/ /P  trm: 0 1541:com.vivo.daemonService/1000 (fixed)
+    PERS #42: pers  F/ /P  trm: 0 1575:com.android.phone/1001 (fixed)
+    PERS #41: pers  F/ /P  trm: 0 1957:com.mediatek.gba/1001 (fixed)
+    PERS #40: pers  F/ /P  trm: 0 1971:com.mediatek.ims/1001 (fixed)
+    PERS #39: pers  F/ /P  trm: 0 27251:com.vivo.pushservice/u0a104 (fixed)
+    PERS #38: pers  F/ /P  trm: 0 2002:com.mediatek.wfo.impl/1001 (fixed)
+    PERS #37: pers  F/ /P  trm: 0 2019:com.bbk.iqoo.logsystem/u0a64 (fixed)
+    PERS #36: pers  F/ /P  trm: 0 2039:com.android.server.telecom/1000 (fixed)
+    PERS #35: pers  F/ /P  trm: 0 2052:com.vivo.upslide/1000 (fixed)
+    PERS #34: pers  F/ /P  trm: 0 2066:com.vivo.assistant/1000 (fixed)
+    Proc #19: fore  F/ /SB trm: 0 1330:com.vivo.appfilter/1000 (provider)
+        com.vivo.appfilter/.provider.SecureProvider<=Proc{965:system/1000}
+    Proc #12: fore  F/ /SB trm: 0 2105:com.vivo.smartmultiwindow/1000 (provider)
+        com.vivo.smartmultiwindow/.AppConfigProvider<=Proc{965:system/1000}
+    Proc # 0: fore  F/A/T  trm: 0 24344:com.example.tasktemp/u0a313 (top-activity)
+    Proc #33: vis   B/ /IB trm: 0 1929:com.amap.android.location/u0a71 (service)
+        com.amap.android.location/.GeocodeService<=Proc{965:system/1000}
+    Proc #32: vis   F/ /IF trm: 0 3869:com.vivo.abe:bin/1000 (service)
+        com.vivo.abe/com.vivo.modules.sales.SalesFetchService<=Proc{1424:com.vivo.abe/1000}
+    Proc #31: vis   F/ /IF trm: 0 3939:com.vivo.rms/1000 (service)
+        com.vivo.abe/com.vivo.rms.dispatcher.RmsService<=Proc{1424:com.vivo.abe/1000}
+    Proc #30: vis   F/ /IF trm: 0 14203:com.vivo.magazine/u0a68 (service)
+        com.vivo.magazine/.MagazineService<=Proc{1388:com.android.systemui/u0a17}
+    Proc # 7: vis   B/ /T  trm: 0 1521:com.iqoo.secure:remote/u0a61 (cch-started-services)
+    Proc #26: prcp  B/ /S  trm: 0 3225:com.vivo.devicereg/u0a50 (cch-started-services)
+    Proc # 8: prcp  F/S/T  trm: 0 2207:com.vivo.securedaemonservice/1000 (fg-service)
+    Proc # 2: prcp  B/ /IB trm: 0 1906:com.baidu.input_bbk.service/u0a59 (service)
+        com.baidu.input_bbk.service/.PinyinIME<=Proc{965:system/1000}
+    Proc #29: svc   B/ /S  trm: 0 21435:com.tencent.mobileqq/u0a134 (cch-empty)
+    Proc #24: svc   B/ /S  trm: 0 21419:com.tencent.mobileqq:MSF/u0a134 (cch-started-services)
+    Proc #16: svc   B/ /S  trm: 0 22454:com.vivo.game/u0a115 (started-services)
+    Proc # 5: home  B/ /HO trm: 0 21391:com.vivo.hybrid/u0a57 (service)
+        com.vivo.hybrid/.main.HybridService<=Proc{9795:com.bbk.launcher2/u0a29}
+    Proc # 4: home  B/ /S  trm: 0 21462:com.vivo.globalsearch/u0a120 (service)
+        com.vivo.globalsearch/.presenter.service.SearchService<=Proc{9795:com.bbk.launcher2/u0a29}
+    Proc # 3: home  B/ /S  trm: 0 2258:com.vivo.doubleinstance/1000 (service)
+        com.vivo.doubleinstance/.WhitelistQureyService<=Proc{21462:com.vivo.globalsearch/u0a120}
+    Proc # 1: home  B/ /HO trm: 0 9795:com.bbk.launcher2/u0a29 (home)
+    Proc #10: cch   B/ /CE trm: 0 22586:com.bbk.cloud/u0a27 (cch-empty)
+    Proc # 9: cch   B/ /CE trm: 0 4599:com.iqoo.secure/u0a61 (cch-empty)
+    Proc # 6: cch   B/ /CE trm: 0 13907:com.android.defcontainer/u0a5 (cch-empty)
+    Proc #15: cch+2 B/ /S  trm: 0 4075:android.process.acore/u0a4 (cch-started-services)
+    Proc #14: cch+2 B/ /CE trm: 0 22283:com.android.mms/u0a11 (cch-empty)
+    Proc #13: cch+2 B/ /CE trm: 0 22563:com.vivo.weather.provider/u0a40 (cch-empty)
+    Proc #11: cch+2 B/ /CE trm: 0 22530:com.android.dialer/u0a6 (cch-empty)
+    Proc #21: cch+4 B/ /CE trm: 0 22487:com.svox.pico/u0a77 (cch-empty)
+    Proc #20: cch+4 B/ /CE trm: 0 22363:com.iqoo.engineermode/1000 (cch-empty)
+    Proc #18: cch+4 B/ /CE trm: 0 22503:com.iqoo.powersaving/u0a60 (cch-empty)
+    Proc #17: cch+4 B/ /CE trm: 0 22377:com.bbk.appstore/u0a25 (cch-empty)
+    Proc #28: cch+6 B/ /S  trm: 0 2754:android.process.media/u0a7 (cch-ui-provider)
+        com.android.providers.downloads/.DownloadProvider<=Proc{17457:com.bbk.updater/u0a92}
+    Proc #27: cch+6 B/ /S  trm: 0 17457:com.bbk.updater/u0a92 (cch-started-services)
+    Proc #25: cch+6 B/ /CE trm: 0 23990:com.android.camera/u0a96 (cch-empty)
+    Proc #23: cch+6 B/ /CE trm: 0 22325:com.android.keychain/1000 (cch-empty)
+    Proc #22: cch+6 B/ /CE trm: 0 20282:com.android.packageinstaller/u0a13 (cch-empty)
+
+  mStartedUsers:
+    User #0: mState=RUNNING
+  mStartedUserArray: [0]
+  mUserLru: [0]
+  mHomeProcess: ProcessRecord{1bf43e 9795:com.bbk.launcher2/u0a29}
+  mConfiguration: {1.0 ?mcc?mnc zh_CN ldltr sw360dp w360dp h616dp 320dpi nrml long port finger -keyb/v/h -nav/h s.20 themeId=0, affectGlobal:true}
+  mWakefulness=Awake
+  mSleepTokens=[]
+  mSleeping=false mLockScreenShown=LOCK_SCREEN_HIDDEN
+  mShuttingDown=false mTestPssMode=false
+  mAlwaysFinishActivities=false mController=android.app.IActivityController$Stub$Proxy@f89ec31
